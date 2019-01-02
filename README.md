@@ -1,2 +1,2 @@
-# deep-rl-worlds-hardest-game
-Deep Reinforcement Learning to beat World's Hardest Game
+# The World's Hardest Game AI
+Computer vision AI trained to beat World's Hardest Game

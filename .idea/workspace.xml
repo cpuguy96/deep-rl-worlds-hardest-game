@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ab6829a-564e-4401-be7b-0c3c5fe9c828" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Earnings/Earnings 1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Earnings/Earnings 2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Earnings/Earnings 3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Earnings/Earnings.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/IMG_4243.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/IMG_4248.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/IMG_4249.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/IMG_4255.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/IMG_4256.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/IMG_4369.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/IMG_4400.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/IMG_4506.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/IMG_4507.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/IMG_4524.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/IMG_4525.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/IMG_4526.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/IMG_4527.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/IMG_4528.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/IMG_4529.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/IMG_4530.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/IMG_4534.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/IMG_4697 (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/IMG_4778.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/DATA-46937413-070818-1056-154.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/DATA-DataWrangling-070818-1055-152.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/DATA-IntroductiontoMachineLearning-070818-1053-150.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/DATA-MachineLearningUdacityCourseUD120inPython-070818-1101-158.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/DATA-MachineLearninginPythonCrashCourse-070818-1100-156.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/DATA-PublicDataSets-070818-1110-160.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/Looping_Presentation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/MagrittrOverview.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/Subsetting.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TA.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/World's Hardest Game AI.docx" beforeDir="false" afterPath="$PROJECT_DIR$/World's Hardest Game AI.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/samples.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/DinoRunTutorial/Reinforcement Learning Dino Run.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/examples/DinoRunTutorial/Reinforcement Learning Dino Run.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/DinoRunTutorial/model.h5" beforeDir="false" afterPath="$PROJECT_DIR$/examples/DinoRunTutorial/model.h5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/DinoRunTutorial/model.json" beforeDir="false" afterPath="$PROJECT_DIR$/examples/DinoRunTutorial/model.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/DinoRunTutorial/objects/D.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/examples/DinoRunTutorial/objects/D.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/DinoRunTutorial/objects/epsilon.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/examples/DinoRunTutorial/objects/epsilon.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/DinoRunTutorial/objects/time.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/examples/DinoRunTutorial/objects/time.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.ipynb" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/imagesearch/pyimagesearch/shapedetector.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/examples/imagesearch/detect_shapes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-130" />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="510" />
+    <option name="width" value="2502" />
+    <option name="height" value="1932" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="worlds-hardest-game-ai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="worlds-hardest-game-ai" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="worlds-hardest-game-ai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="worlds-hardest-game-ai" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ab6829a-564e-4401-be7b-0c3c5fe9c828" name="Default Changelist" comment="" />
+      <created>1546320841297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546320841297</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="255" y="0" width="1251" height="966" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1489712" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/examples/imagesearch/pyimagesearch/shapedetector.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/imagesearch/detect_shapes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-130" />
+      </provider>
+    </entry>
+  </component>
+</project>
