@@ -109,3 +109,6 @@ examples/
 # D.pkl
 */*/D.pkl
 */D.pkl
+
+# pycharm
+.idea/
